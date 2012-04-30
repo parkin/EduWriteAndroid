@@ -29,8 +29,8 @@ public class EduWriteAndroidActivity extends Activity {
 
 	private WebView mWebView;
 
-	private String ip = "107.21.246.180";
-	private String port = "9001";
+	private String ip = "eduwrite.jontedesco.net";
+	private String port = "80";
 
 	/** Called when the activity is first created. */
 	@Override
